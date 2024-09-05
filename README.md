@@ -1,6 +1,6 @@
 # React Projects Repository
 
-Welcome to the **React Projects Repository**! This repository contains various React applications, components, and custom hooks created during our development sessions. Each project demonstrates different aspects of React, including state management, component composition, hooks, routing, and more.
+Welcome to the **React Projects Repository**! This repository contains various React applications, components, and custom hooks created during my development sessions. Each project demonstrates different aspects of React, including state management, component composition, hooks, routing, and more.
 
 ## Table of Contents
 
