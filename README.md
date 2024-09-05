@@ -7,9 +7,6 @@ Welcome to the **React Projects Repository**! This repository contains various R
 - [Overview](#overview)
 - [Projects](#projects)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
