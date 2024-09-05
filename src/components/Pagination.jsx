@@ -29,10 +29,10 @@ const Pagination = ({ itemsPerPage, data }) => {
   );
 };
 
-const App = () => {
+const Parent = () => {
   const data = Array.from({ length: 50 }, (_, i) => `Item ${i + 1}`);
 
   return <Pagination itemsPerPage={10} data={data} />;
 };
 
-export default App;
+export default Parent;
